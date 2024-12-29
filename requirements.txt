@@ -1,0 +1,9 @@
+snowflake-connector-python
+snowflake-snowpark-python
+snowflake-ml-python
+numpy
+pandas
+requests
+streamlit
+python-dotenv
+#jupyter
